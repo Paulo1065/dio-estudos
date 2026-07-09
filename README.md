@@ -38,39 +38,82 @@ Uma plataforma para profissionais da beleza com:
 ---
 
 > "Grandes mudanças começam com pequenas decisões."## 📅 Diário de Evolução
+---
 
-### 09/07/2026
+# 📅 Diário de Evolução
 
-Hoje criei minha primeira página HTML.
+## 09/07/2026
+
+### ✅ Módulo HTML
 
 Aprendi:
 
-- Estrutura HTML
+- Estrutura básica do HTML
 - head
 - body
 - h1
+- h2
+- p
+- br
+- div
+- Organização de pastas
 - Live Server
 
-Primeira página criada:
-"Bem-vindo ao BeautyFlow"
+Projeto desenvolvido:
 
-Status:
-🚀 Evoluindo um passo por vez.## Diário de Evolução
+- Primeira página do BeautyFlow
 
-### Aula 2 - HTML
+---
 
-Hoje aprendi:
+### ✅ Módulo CSS
 
-- Estrutura de um site.
-- HTML não é linguagem de programação, é linguagem de marcação.
-- Head guarda configurações.
-- Body mostra o conteúdo ao usuário.
-- H1 é o título principal.
-- P é um parágrafo.
-- H2 é um subtítulo.
-- BR quebra uma linha.
+Aprendi:
 
-Hoje criei minha primeira página HTML.
+- background
+- color
+- font-family
+- font-size
+- line-height
+- text-align
+- margin
+- padding
+- border-radius
+- box-shadow
+- classes (.container)
 
-Próximo objetivo:
-Aprender CSS.
+Também aprendi:
+
+- Como conectar HTML ao CSS
+- Como investigar e corrigir erros (debug)
+- Como organizar o código de forma profissional
+
+---
+
+### ✅ Git e GitHub
+
+Comandos aprendidos:
+
+- git status
+- git add .
+- git commit
+- git push
+
+Entendi o processo de versionamento e publiquei minha evolução no GitHub.
+
+---
+
+## 🚀 Próximo objetivo
+
+Transformar o BeautyFlow em uma Landing Page profissional utilizando:
+
+- Flexbox
+- Botões modernos
+- Cards
+- Ícones
+- Responsividade
+
+---
+
+> "Cada commit representa um passo em direção ao meu primeiro emprego como desenvolvedor."
+
+**Paulo Giovanni**
