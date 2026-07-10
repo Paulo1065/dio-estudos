@@ -117,3 +117,21 @@ Transformar o BeautyFlow em uma Landing Page profissional utilizando:
 > "Cada commit representa um passo em direção ao meu primeiro emprego como desenvolvedor."
 
 **Paulo Giovanni**
+## 📅 10/07/2026
+
+### CSS - Continuação
+
+Hoje continuei meus estudos de CSS, aprimorando a estilização da página inicial do projeto BeautyFlow.
+
+Nesta etapa aprendi e pratiquei:
+
+- Organização do arquivo `style.css`;
+- Estilização de botões;
+- Criação de classes CSS;
+- Efeito `:hover`;
+- Propriedade `transform: scale()`;
+- Melhor organização do layout.
+
+Também comecei a compreender como pequenos detalhes de design melhoram a experiência do usuário.
+
+🚀 Cada aula fortalece minha base para me tornar um desenvolvedor Front-end.
