@@ -135,3 +135,44 @@ Nesta etapa aprendi e pratiquei:
 Também comecei a compreender como pequenos detalhes de design melhoram a experiência do usuário.
 
 🚀 Cada aula fortalece minha base para me tornar um desenvolvedor Front-end.
+# 📅 Diário de Evolução
+
+## 11/07/2026
+
+### 🏆 Conquista da Semana
+
+Hoje concluí minha primeira avaliação prática de HTML, CSS, Git e GitHub.
+
+### 📚 O que aprendi
+
+- Estrutura básica do HTML
+- Organização entre `head` e `body`
+- Classes (`class`) e identificadores (`id`)
+- Estilização com CSS
+- Botões e efeito `:hover`
+- Organização do projeto
+- Versionamento utilizando Git e GitHub
+
+### 📊 Resultado
+
+Primeira avaliação concluída com excelente desempenho.
+
+Mais importante do que a nota foi perceber que consigo explicar conceitos com minhas próprias palavras e resolver problemas utilizando lógica.
+
+### 💻 Projeto
+
+Continuação do desenvolvimento do **BeautyFlow**, aplicando boas práticas de HTML e CSS.
+
+### 🌱 Reflexão
+
+Há poucos dias eu não sabia criar um repositório no GitHub.
+
+Hoje consigo construir páginas em HTML, aplicar estilos com CSS, utilizar Git, registrar minha evolução e compreender o que estou desenvolvendo.
+
+Cada commit representa um passo concreto na minha transição de carreira para a área de tecnologia.
+
+O objetivo continua o mesmo:
+
+**Aprender todos os dias, construir projetos reais e utilizar a tecnologia para gerar valor para as pessoas.**
+
+🚀 Seguimos para o próximo desafio: **Flexbox**.
