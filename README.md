@@ -274,7 +274,71 @@ Construir uma empresa de tecnologia inovadora, capaz de transformar vidas, atrav
 - Tecnologia para transformar vidas
 
 ---
+📅 Diário de Evolução
+13/07/2026
+📚 O que estudei
 
+Hoje aprendi conceitos importantes sobre arquitetura de páginas HTML e navegação.
+
+Conteúdos estudados:
+
+Header
+Nav
+Main
+Footer
+Section
+Organização semântica
+Estrutura profissional de uma Landing Page
+Flexbox
+display: flex
+justify-content
+align-items
+gap
+list-style
+text-decoration
+💻 O que desenvolvi
+Reestruturei completamente o HTML do BeautyFlow.
+Organizei o projeto utilizando Header, Main e Footer.
+Construí minha primeira Navbar profissional.
+Posicionei a logo e o menu utilizando Flexbox.
+Removi as bolinhas da lista e organizei os links horizontalmente.
+Compreendi a importância da arquitetura da página antes da estilização.
+🧠 O que aprendi
+
+Hoje compreendi que:
+
+Header é o cabeçalho da página.
+Nav é responsável pela navegação.
+Main contém o conteúdo principal.
+Footer contém as informações finais.
+Section organiza cada área do site.
+O Flexbox facilita a construção de layouts modernos.
+
+Também aprendi a diferença entre:
+
+justify-content → organiza os elementos na horizontal.
+align-items → organiza os elementos na vertical.
+text-align → alinha apenas o texto, não os elementos.
+🚀 Evolução do Projeto BeautyFlow
+
+O BeautyFlow começou a ganhar aparência de uma Landing Page profissional.
+
+Hoje a estrutura segue boas práticas de desenvolvimento Front-end:
+
+Header
+Nav
+Main
+Container
+Footer
+
+Também iniciei a construção da Navbar utilizando Flexbox, aproximando o projeto do padrão utilizado no mercado.
+
+🎯 Próximos passos
+ Finalizar a Navbar.
+ Criar a seção Hero.
+ Adicionar botão de Login.
+ Criar as Sections de Clientes, Agenda e IA.
+ Aprender CSS Responsivo.
 ## ❤️ Reflexão do dia
 
 Hoje percebi que a programação está mudando minha forma de pensar.
@@ -301,17 +365,6 @@ Este é apenas o começo.
 
 ---
 
-## 🎯 Próximas metas
-
-- [ ] Finalizar a Landing Page BeautyFlow
-- [ ] Dominar HTML Semântico
-- [ ] Dominar CSS
-- [ ] Aprender JavaScript
-- [ ] Desenvolver projetos reais
-- [ ] Conseguir o primeiro cliente da Mobi Systems
-- [ ] Construir uma empresa que deixe um legado para as próximas gerações
-
----
 
 ### Frase da jornada
 
