@@ -192,3 +192,130 @@ Hoje aprendi:
 Consegui corrigir sozinho um erro de sintaxe no CSS que impedia o VS Code de interpretar o arquivo.
 
 Status: 🚀 Cada erro corrigido aumenta minha confiança como desenvolvedor.
+# 📅 Diário de Evolução
+
+## 13/07/2026
+
+### 📚 O que estudei
+
+Hoje continuei meus estudos de HTML e CSS, aprofundando os conceitos de estrutura semântica de uma página.
+
+Aprendi e revisei:
+
+- Nav
+- Main
+- Footer
+- UL
+- LI
+- A
+- Href
+- Organização profissional de páginas
+- Hierarquia entre elementos HTML
+- Estrutura de uma Landing Page
+- Flexbox
+- Organização de Cards
+- Interpretação de erros no VS Code (Problems)
+
+---
+
+## 💻 O que desenvolvi
+
+- Navbar inicial do BeautyFlow
+- Estrutura profissional da Landing Page
+- Organização dos Cards
+- Melhorias na arquitetura do HTML
+
+---
+
+## 🧠 O que aprendi
+
+Hoje percebi que programar não é apenas escrever código.
+
+Programar é organizar ideias, resolver problemas e construir soluções.
+
+Também compreendi a diferença entre:
+
+- body
+- nav
+- main
+- footer
+
+e como cada elemento possui uma responsabilidade dentro da página.
+
+---
+
+## 🚀 Projeto BeautyFlow
+
+Objetivo:
+
+Criar um sistema moderno para clínicas de estética, focado em reduzir tempo operacional, organizar processos e aumentar os resultados dos clientes.
+
+---
+
+## 🏢 Projeto Mobi Systems
+
+Hoje definimos os primeiros pilares da empresa.
+
+### Missão
+
+Facilitar o dia a dia das empresas através da tecnologia, ajudando a ampliar sua carteira de clientes, reduzir custos e aumentar resultados com soluções inteligentes.
+
+### Visão
+
+Construir uma empresa de tecnologia inovadora, capaz de transformar vidas, atravessar gerações e deixar um legado através do conhecimento.
+
+### Valores
+
+- Família
+- Inovação
+- Confiança
+- Respeito
+- Aprendizado Contínuo
+- Tecnologia para transformar vidas
+
+---
+
+## ❤️ Reflexão do dia
+
+Hoje percebi que a programação está mudando minha forma de pensar.
+
+Cada problema que encontro já não representa uma dificuldade.
+
+Representa uma oportunidade de criar uma solução.
+
+Quero construir algo que vá além de uma empresa.
+
+Quero deixar um legado.
+
+Espero que Paulo Victor, Paulo César e Alice possam olhar para essa caminhada e entender que grandes sonhos são construídos com disciplina, estudo, honestidade e perseverança.
+
+Assim como aprendemos com aqueles que vieram antes de nós, quero deixar documentada toda a minha evolução.
+
+Cada commit representa mais do que uma alteração no código.
+
+Representa um passo concreto na construção da Mobi Systems e da minha nova carreira.
+
+Hoje tenho certeza de que estou construindo um futuro melhor para minha família.
+
+Este é apenas o começo.
+
+---
+
+## 🎯 Próximas metas
+
+- [ ] Finalizar a Landing Page BeautyFlow
+- [ ] Dominar HTML Semântico
+- [ ] Dominar CSS
+- [ ] Aprender JavaScript
+- [ ] Desenvolver projetos reais
+- [ ] Conseguir o primeiro cliente da Mobi Systems
+- [ ] Construir uma empresa que deixe um legado para as próximas gerações
+
+---
+
+### Frase da jornada
+
+> "O sucesso não acontece em um único grande passo.
+> Ele é construído em pequenos commits diários."
+
+🚀 Um commit por vez.
