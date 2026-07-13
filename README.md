@@ -175,22 +175,20 @@ O objetivo continua o mesmo:
 
 **Aprender todos os dias, construir projetos reais e utilizar a tecnologia para gerar valor para as pessoas.**
 
-🚀 Seguimos para o próximo desafio: **Flexbox**.
 ## 📅 13/07/2026
 
-Hoje avancei no estudo de Flexbox.
+Hoje aprendi:
 
-Aprendi:
-
+- Estrutura correta do Flexbox
+- Cards
 - display:flex
 - justify-content
-- align-items
 - gap
+- align-items
 - flex-wrap
-- min-width
-- transform
-- translateY
+- Como utilizar a aba Problems do VS Code
+- Como interpretar mensagens de erro
 
-Também aprendi que a estrutura entre HTML e CSS precisa estar corretamente organizada para que o Flexbox funcione.
+Consegui corrigir sozinho um erro de sintaxe no CSS que impedia o VS Code de interpretar o arquivo.
 
-Status: 🚀 Evoluindo um passo por vez.
+Status: 🚀 Cada erro corrigido aumenta minha confiança como desenvolvedor.
