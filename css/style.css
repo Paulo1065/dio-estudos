@@ -9,7 +9,9 @@ body{
 
 .container {
     background: white;
-    width: 800px;
+    width: 90%;
+    max-width: 1000px;
+    box-sizing: border-box;
     margin: 50px auto;
     padding: 40px;
     border-radius: 20px;
@@ -37,21 +39,12 @@ button{
     border-radius: 10px;
     font-size: 18px;
     cursor: pointer;
+    transition: 0.3s ease;
 }
 button:hover{
     background: #1d4ed8;
-    transform: scale(1,05);
-}
-
-.botao{ 
-    background: #dbeafe;
-    color: white;
-    padding: 15px 30px;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
-    margin: 10px;
-    
+    transform: translate skewY(-2px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.18);
 }
 .cards{
     display: flex;
@@ -68,10 +61,11 @@ button:hover{
     box-shadow: 0 5px 15px rgba(0,0,0,0.15);
     flex: 1;
     min-width: 220px;
-    transition:.3s;
+    transition:.3s ease;
 }
 .card:hover{
-    transform: translateY(-8px);
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.18);
 }
 nav{
     display: flex;
@@ -94,4 +88,26 @@ nav a{
     text-decoration: none;
     color: #2563eb;
     font-weight: bold;
+}
+.hero {
+    text-align: center;
+    padding: 60px 30px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    max-width: 750px;
+    margin: 0 auto 30px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+nav h1 {
+    margin: 0;
+    font-size: 28px;
+    text-align: left;
 }

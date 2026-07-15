@@ -372,3 +372,122 @@ Este é apenas o começo.
 > Ele é construído em pequenos commits diários."
 
 🚀 Um commit por vez.
+# 📅 Diário de Evolução
+
+## 15/07/2026
+
+### 📚 O que estudei
+
+Hoje avancei na construção da Landing Page do BeautyFlow e aprofundei meus conhecimentos em HTML semântico e CSS.
+
+### ✅ Conteúdos estudados
+
+- Hero Section
+- Organização semântica da página
+- Header
+- Nav
+- Main
+- Section
+- Footer
+- Estrutura profissional de Landing Pages
+- Flexbox
+- justify-content
+- align-items
+- gap
+- button
+- button:hover
+- button:active
+- transition
+- transform
+- box-shadow
+- Organização dos Cards
+
+---
+
+## 💻 O que desenvolvi
+
+- Reestruturei a Home do BeautyFlow.
+- Criei a Hero Section principal.
+- Organizei as funcionalidades em Cards.
+- Desenvolvi uma Navbar mais profissional.
+- Adicionei efeitos de interação nos botões e nos cards utilizando Hover.
+- Aprendi a separar melhor a responsabilidade de cada elemento da página.
+
+---
+
+## 🧠 O que aprendi
+
+Hoje compreendi que um site profissional não é apenas bonito.
+
+Ele precisa ter:
+
+- Estrutura bem organizada.
+- Boa arquitetura.
+- Navegação intuitiva.
+- Hierarquia visual.
+- Experiência agradável para o usuário.
+
+Também aprendi que os elementos possuem estados diferentes:
+
+- `button` → estado normal.
+- `button:hover` → quando o mouse passa sobre o botão.
+- `button:active` → quando o botão está sendo pressionado.
+
+Além disso, compreendi que o `transition` deixa as mudanças suaves e mais profissionais.
+
+---
+
+## 🚀 Evolução do Projeto BeautyFlow
+
+O BeautyFlow começou a adquirir aparência de um sistema profissional.
+
+Agora já possui:
+
+- Header
+- Navbar
+- Hero Section
+- Cards
+- Botões interativos
+- Estrutura semântica
+- Organização em Sections
+
+Cada nova aula deixa o projeto mais próximo de um produto real.
+
+---
+
+## 💡 Principal aprendizado
+
+Hoje percebi que programação não é apenas escrever código.
+
+É organizar ideias, criar experiências para o usuário e desenvolver soluções para problemas reais.
+
+Cada detalhe, por menor que pareça, melhora a qualidade do sistema.
+
+---
+
+## 🎯 Próximas metas
+
+- [ ] Melhorar o visual da Landing Page.
+- [ ] Aprender Grid Layout.
+- [ ] Responsividade.
+- [ ] Font Awesome.
+- [ ] JavaScript.
+- [ ] Tornar o BeautyFlow um sistema completo.
+
+---
+
+## 💙 Reflexão do dia
+
+Hoje senti que estou deixando de apenas estudar programação e começando a pensar como um desenvolvedor.
+
+Antes eu aprendia comandos.
+
+Hoje eu entendo por que utilizá-los.
+
+Cada aula aumenta minha confiança e reforça a certeza de que estou construindo algo maior que um projeto: estou construindo meu futuro e o da Mobi Systems.
+
+---
+
+### 🦁 Frase do dia
+
+> **"Grandes sistemas não nascem prontos. Eles evoluem um commit de cada vez."**
