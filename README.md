@@ -491,3 +491,143 @@ Cada aula aumenta minha confiança e reforça a certeza de que estou construindo
 ### 🦁 Frase do dia
 
 > **"Grandes sistemas não nascem prontos. Eles evoluem um commit de cada vez."**
+# 🚀 BeautyFlow
+
+## 🦁 BORA, LET'S GOOOOOOOOOO!!
+
+Hoje foi mais um dia de evolução na construção do BeautyFlow!
+
+Cada linha de código representa um passo na minha transição de carreira e na construção da Mobi Systems.
+
+---
+
+# 🎯 Missão concluída
+
+✅ Responsividade implementada
+
+✅ Testes realizados no DevTools
+
+✅ Layout adaptado para Desktop, Tablet e Smartphone
+
+✅ Media Queries aplicadas
+
+✅ Grid responsivo configurado
+
+---
+
+# 💻 O que aprendi hoje
+
+📱 O verdadeiro objetivo da responsividade é oferecer uma excelente experiência ao usuário, independentemente do dispositivo utilizado.
+
+📐 Aprendi a utilizar:
+
+- `@media`
+- `max-width`
+- `display: flex`
+- `display: grid`
+- `grid-template-columns`
+- `1fr`
+
+Também aprendi a testar o projeto utilizando o DevTools do navegador.
+
+---
+
+# 🧠 Conhecimento adquirido
+
+> Um bom desenvolvedor não programa apenas para computadores.
+
+Ele desenvolve pensando nas pessoas.
+
+Cada usuário pode acessar o sistema através de:
+
+📱 Smartphone
+
+💻 Notebook
+
+🖥 Desktop
+
+📟 Tablet
+
+Nosso dever é entregar uma experiência incrível em todos eles.
+
+---
+
+# 🔥 Evolução da jornada
+
+✅ HTML Semântico
+
+✅ CSS
+
+✅ Flexbox
+
+✅ Grid
+
+✅ Hover
+
+✅ Active
+
+✅ Responsividade
+
+✅ DevTools
+
+🚀 Próximo passo:
+
+✨ Ícones profissionais
+
+✨ Interface moderna
+
+✨ JavaScript
+
+✨ Animações
+
+---
+
+# 🏢 Projeto
+
+BeautyFlow
+
+Sistema inteligente para clínicas de estética desenvolvido durante minha jornada de aprendizado Front-end.
+
+Projeto pertencente à Mobi Systems.
+
+---
+
+# 💙 Filosofia da Mobi Systems
+
+> "Não escrevemos apenas código.
+
+Construímos soluções que transformam tempo em oportunidade."
+
+---
+
+# 📅 Diário de evolução
+
+📌 Hoje aprendi que um sistema profissional precisa funcionar perfeitamente em qualquer tamanho de tela.
+
+Mais do que escrever código, estou aprendendo a entregar experiência para o usuário.
+
+---
+
+# 🚀 Commit do dia
+
+**feat: implementa responsividade e testes em múltiplos dispositivos**
+
+---
+
+# 🦁 BORDÃO OFICIAL
+
+# 🚀 BOOOORAAAAAA, LET'S GOOOOOOOOOO!!!
+
+## Porque aqui tem coragem.
+
+Não temos medo de errar.
+
+Temos coragem para aprender.
+
+Temos disciplina para evoluir.
+
+Temos propósito para construir.
+
+E um dia...
+
+A Mobi Systems será referência em tecnologia. 💙
