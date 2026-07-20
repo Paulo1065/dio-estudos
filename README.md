@@ -631,3 +631,142 @@ Temos propósito para construir.
 E um dia...
 
 A Mobi Systems será referência em tecnologia. 💙
+# 💙 BeautyFlow
+
+Sistema inteligente para clínicas de estética desenvolvido durante minha jornada de aprendizado em Desenvolvimento Front-end.
+
+---
+
+# 🚀 Dia de Desenvolvimento
+
+## 📚 O que aprendi hoje
+
+✅ Estrutura semântica do HTML
+
+- header
+- nav
+- main
+- section
+- footer
+
+---
+
+## 🧠 Organização da página
+
+Aprendi que cada elemento HTML possui uma responsabilidade específica.
+
+Hoje compreendi que:
+
+- o `<header>` representa o cabeçalho;
+- o `<nav>` concentra a navegação;
+- o `<main>` abriga todo o conteúdo principal;
+- as `<section>` organizam conteúdos relacionados;
+- o `<footer>` encerra a página.
+
+Isso torna o código muito mais organizado e facilita futuras manutenções.
+
+---
+
+## 🎨 CSS
+
+Hoje evoluí bastante utilizando:
+
+- CSS Grid
+- Organização dos Cards
+- Box Shadow
+- Border Radius
+- Hover
+- Transition
+- Transform
+
+Também compreendi a diferença entre:
+
+✔ Flexbox
+
+e
+
+✔ CSS Grid
+
+---
+
+## ⭐ Font Awesome
+
+Aprendi a utilizar ícones profissionais dentro do projeto.
+
+Implementei ícones para:
+
+🏠 Home
+
+👥 Clientes
+
+📅 Agenda
+
+📈 Relatórios
+
+🤖 Inteligência Artificial
+
+---
+
+## 💡 Aprendizado mais importante
+
+Hoje percebi que programação não é decorar códigos.
+
+É entender a função de cada elemento e organizar a estrutura pensando em manutenção, legibilidade e experiência do usuário.
+
+---
+
+# 🛠 Projeto
+
+BeautyFlow
+
+Status:
+
+🟢 Hero Finalizado
+
+🟢 Navbar Finalizada
+
+🟢 Cards de Funcionalidades Finalizados
+
+🟢 Ícones implementados
+
+🟢 Hover iniciado
+
+🟢 Estrutura HTML organizada
+
+---
+
+# 🎯 Próximos Passos
+
+✅ Responsividade
+
+✅ Animações Profissionais
+
+✅ JavaScript
+
+✅ Formulário
+
+✅ Integração com WhatsApp
+
+✅ Publicação Online
+
+---
+
+# 📈 Minha evolução
+
+Cada aula representa um passo na construção da minha carreira como Desenvolvedor Front-end.
+
+O objetivo não é apenas aprender programação.
+
+É construir soluções reais através da tecnologia.
+
+---
+
+## 🦁 Mobi Systems
+
+Transformando ideias em soluções através da tecnologia.
+
+---
+
+Feito com dedicação, disciplina e muita vontade de evoluir.
+
+🚀 Let's Gooooo!!

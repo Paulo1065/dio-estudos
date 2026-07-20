@@ -56,13 +56,17 @@ button:hover{
     padding: 25px;
     border-radius: 15px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.15);
-    flex: 1;
     min-width: 220px;
     transition:.3s ease;
 }
+.card i{
+    font-size: 28px;
+    color: royalblue;
+    margin-bottom: 15px;
+}    
 .card:hover{
     transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.20);
 }
 nav{
     display: flex;
@@ -84,7 +88,11 @@ nav ul{
 nav a{
     text-decoration: none;
     color: #2563eb;
-    font-weight: bold;
+}
+nav li{
+    display: flex;
+    align-items: center;
+    gap: 6px;
 }
 .hero {
     text-align: center;
